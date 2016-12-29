@@ -1,4 +1,3 @@
-# mpsCofeeScript
 CoffeeScript for JetBrains MPS
 
 [![Build Status](https://travis-ci.org/mpslang/mpsPHP.svg?branch=master)](https://travis-ci.org/mpslang/mpsCoffeeScript)
