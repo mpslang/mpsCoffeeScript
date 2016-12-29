@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MPSProject">
+    <projectModules>
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/coffeescript/com.github.mpslang.coffeescript.mpl" folder="" />
+      <modulePath path="$PROJECT_DIR$/languages/com/github/mpslang/coffeescript/sandbox/com.github.mpslang.coffeescript.sandbox.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com.github.mpslang.coffeescript.build/com.github.mpslang.coffeescript.build.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com/github/mpslang/com.github.mpslang.coffeescript.plugin/com.github.mpslang.coffeescript.plugin.msd" folder="" />
+      <modulePath path="$PROJECT_DIR$/solutions/com/github/mpslang/com.github.mpslang.coffeescript.runtime/com.github.mpslang.coffeescript.runtime.msd" folder="" />
+    </projectModules>
+  </component>
+</project>
