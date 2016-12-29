@@ -38,9 +38,9 @@
     <mkdir dir="${build.tmp}/default/mpsCoffeeScript.zip/mpsCoffeeScript/META-INF" />
     <echoxml file="${build.tmp}/default/mpsCoffeeScript.zip/mpsCoffeeScript/META-INF/plugin.xml">
       <idea-plugin version="2" xmlns:xi="http://www.w3.org/2001/XInclude">
-        <id>mpsCoffeeScript</id>
-        <name>mpsCoffeeScript</name>
-        <description>CoffeeScript for Jetbrains MPS</description>
+        <id>com.github.mpslang.coffeescript</id>
+        <name>com.github.mpslang.coffeescript</name>
+        <description>CoffeeScript for JetBrains MPS</description>
         <version>0.1</version>
         <vendor url="https://github.com/mpslang">mpslang</vendor>
         <depends>jetbrains.mps.core</depends>
